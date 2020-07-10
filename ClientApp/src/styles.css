@@ -1,0 +1,114 @@
+/* You can add global styles to this file, and also import other style files */
+*{
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+  font-size: 14px;
+  color: #333;
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 8px 0;
+  color: #fff;
+}
+
+p {
+  margin: 0;
+}
+
+a,
+a:visited,
+a:hover {
+  color: #1976d2;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #125699;
+}
+
+.spacer {
+  flex: 1;
+}
+
+.content {
+  display: flex;
+  margin: 82px auto 32px;
+  padding: 0 16px;
+  max-width: 960px;
+  flex-direction: column;
+  align-items: center;
+}
+
+svg#clouds {
+  position: fixed;
+  bottom: -160px;
+  left: -230px;
+  z-index: -10;
+  width: 1920px;
+  opacity: 0.4;
+}
+
+/* Provide sufficient contrast against white background */
+a {
+  color: #0366d6;
+}
+
+code {
+  color: #e01a76;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #1b6ec2;
+  border-color: #1861ac;
+}
+
+.track div {
+  cursor: pointer;
+  position: relative;
+  left: 0;
+  background-color: #FFF;
+  margin: .5em;
+  /* padding: .3em 0; */
+  border-radius: 4px;
+  color: black;
+}
+
+.track div:hover {
+  color: #104275;
+  background-color: #EFF7FF;
+  left: .1em;
+  /* background-color: #BBD8DC; */
+  /* background-color: #ebf6ea !important; */
+}
+
+.track div.selected {
+  background-color: #ebf6ea;
+  /* background-color: #CFD8DC; */
+  color: #104275;
+}
+
+.track div.selected:hover {
+  background-color: #BBD8DC;
+  color: black;
+}
+
+.text-black {
+  color: black !important;
+}
+
+/* Position and style the close button (top right corner) */
+.closebtn {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 25px;
+  margin-right: 20px;
+}

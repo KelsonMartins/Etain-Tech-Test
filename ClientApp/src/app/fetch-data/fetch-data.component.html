@@ -1,0 +1,33 @@
+<h1 class="py-2 text-black">{{location}} Weather Forecast</h1>
+
+<p class="lead">This component demonstrates fetching data from the ServerApp, forecast spanning 5 days from today.</p>
+
+<p *ngIf="!results$"><em>Loading...</em></p>
+
+<div class="row" *ngIf="results$">
+  <div class="col card-deck mt-5">
+    <div class="track card shadow-sm" style="width: 18rem;" *ngFor="let data of results$ | async"
+      (click)="onSelect(data)" [class.selected]="data === selectedDay">
+      <img class="card-img-top px-2 w-75 mx-auto" [src]="getIcon(data?.weather_state_abbr)" alt="Weather State Icon">
+      <div class="card-body text-center">
+        <p class="card-text"><b>{{data?.weather_state_name}}</b></p>
+        <p class="card-text"><b>{{data?.applicable_date | date:'d MMMM y'}}</b></p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- <div class="row" *ngIf="selectedDay">
+  <div class="col">
+    <a href="javascript:void(0)" class="closebtn p-4" (click)="closeDetail()">&times;</a>
+    <div class="container text-center">
+      <p class="lead">{{selectedDay?.applicable_date | date:'EEEE, d MMMM, y'}}</p>
+
+      <img class="w-25" [src]="getIcon(selectedDay?.weather_state_abbr)" alt="Weather State Icon">
+
+      <p class="m-0">{{selectedDay?.humidity}}</p>
+    </div>
+
+  </div>
+
+</div> -->
