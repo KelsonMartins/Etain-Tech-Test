@@ -10,24 +10,43 @@
       (click)="onSelect(data)" [class.selected]="data === selectedDay">
       <img class="card-img-top px-2 w-75 mx-auto" [src]="getIcon(data?.weather_state_abbr)" alt="Weather State Icon">
       <div class="card-body text-center">
-        <p class="card-text"><b>{{data?.weather_state_name}}</b></p>
-        <p class="card-text"><b>{{data?.applicable_date | date:'d MMMM y'}}</b></p>
+        <p class="card-text text-truncate"><b>{{data?.weather_state_name}}</b></p>
+        <p class="card-text text-truncate"><b>{{data?.applicable_date | date:'d MMMM y'}}</b></p>
       </div>
     </div>
   </div>
-</div>
-
-<!-- <div class="row" *ngIf="selectedDay">
-  <div class="col">
-    <a href="javascript:void(0)" class="closebtn p-4" (click)="closeDetail()">&times;</a>
-    <div class="container text-center">
-      <p class="lead">{{selectedDay?.applicable_date | date:'EEEE, d MMMM, y'}}</p>
-
-      <img class="w-25" [src]="getIcon(selectedDay?.weather_state_abbr)" alt="Weather State Icon">
-
-      <p class="m-0">{{selectedDay?.humidity}}</p>
+  <div class="col-4 card" *ngIf="selectedDay">
+    <ul class="list-group list-group-flush">
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        <p class="lead">{{selectedDay?.applicable_date | date:'EEEE, d MMMM, y'}}</p>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        Max. Temperature
+        <span class="badge badge-primary badge-pill">{{selectedDay?.max_temp | number: '1.0-1'}}°</span>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        Min. Temperature
+        <span class="badge badge-primary badge-pill">{{selectedDay?.min_temp| number: '1.0-1'}}°</span>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        Humidity
+        <span class="badge badge-primary badge-pill">{{selectedDay?.humidity | percent: '1.0-1'}}</span>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        Wind Speed
+        <span class="badge badge-primary badge-pill">{{selectedDay?.wind_speed | number: '1.0-1'}} km/h</span>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        Wind Direction
+        <span class="badge badge-primary badge-pill">{{selectedDay?.wind_direction_compass}}</span>
+      </li>
+      <li class="list-group-item d-flex justify-content-between align-items-center">
+        Air Presssure
+        <span class="badge badge-primary badge-pill">{{selectedDay?.air_pressure}} hPa</span>
+      </li>
+    </ul>
+    <div class="card-body text-center px-0">
+      <a href="javascript:void(0)" (click)="closeDetail()">Close Details</a>
     </div>
-
   </div>
-
-</div> -->
+</div>

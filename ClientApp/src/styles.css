@@ -81,21 +81,21 @@ code {
   color: black;
 }
 
-.track div:hover {
+.track:hover {
   color: #104275;
-  background-color: #EFF7FF;
+  /* background-color: #EFF7FF; */
   left: .1em;
-  /* background-color: #BBD8DC; */
+  background-color: #BBD8DC;
   /* background-color: #ebf6ea !important; */
 }
 
-.track div.selected {
-  background-color: #ebf6ea;
-  /* background-color: #CFD8DC; */
+.track.selected {
+  /* background-color: #ebf6ea; */
+  background-color: #CFD8DC;
   color: #104275;
 }
 
-.track div.selected:hover {
+.track.selected:hover {
   background-color: #BBD8DC;
   color: black;
 }
@@ -104,11 +104,3 @@ code {
   color: black !important;
 }
 
-/* Position and style the close button (top right corner) */
-.closebtn {
-  position: absolute;
-  top: 0;
-  right: 0;
-  font-size: 25px;
-  margin-right: 20px;
-}
