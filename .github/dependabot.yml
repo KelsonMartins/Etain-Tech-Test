@@ -7,7 +7,12 @@ version: 2
 updates:
   # Maintain dependencies for Nuget
   - package-ecosystem: "nuget"
-    directory: "/"
+    directory: "/ServerApp"
+    schedule:
+      interval: "daily"
+      
+  - package-ecosystem: "nuget"
+    directory: "/UnitTests"
     schedule:
       interval: "daily"
 
