@@ -1,7 +1,8 @@
 repo_name: KelsonMartins/weather-forecast-app
 report_id: e880429871bb75eb2b12b69d3d119306
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-03T10:21:31+00:00'
+timestamp: '2024-01-05T08:29:20+00:00'
 requested_by: KelsonMartins
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1015/1200px-C_Sharp_wordmark.svg.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app
   detection_source: Repo Metadata
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app
   detection_source: Repo Metadata
 - name: TypeScript
   description: A superset of JavaScript that compiles to clean JavaScript output
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -56,6 +61,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
   detection_source: UnitTests/UnitTests.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-02-17 04:15:52.000000000 Z
@@ -70,7 +76,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/6403/default_91fc1f0ee315262794273aa1387eaf8fed8436e6.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -85,7 +91,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/11331/asp.net-core.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -99,7 +105,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3745/cb8U-gL6_400x400.jpg
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -114,7 +120,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Front-End Frameworks
   image_url: https://img.stackshare.io/service/1101/C9QJ7V3X.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-05-22 16:00:16.000000000 Z
@@ -127,6 +133,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-03-04 04:16:32.000000000 Z
@@ -139,7 +146,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: FernandesMartins
   last_updated_on: 2020-07-10 20:42:49.000000000 Z
@@ -153,7 +160,7 @@ tools:
   category: Libraries
   sub_category: Javascript UI Libraries
   image_url: https://img.stackshare.io/service/1021/lxEKmMnB_400x400.jpg
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-05-22 15:38:35.000000000 Z
@@ -167,7 +174,7 @@ tools:
   category: Data Stores
   sub_category: Object Relational Mapper (ORM)
   image_url: https://img.stackshare.io/service/10254/no-img-open-source.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -180,6 +187,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1071/sqlite.jpg
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: FernandesMartins
   last_updated_on: 2020-07-10 20:42:49.000000000 Z
@@ -191,6 +199,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -200,6 +209,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/.github/workflows/codeql-analysis.yml
   detection_source: ".github/workflows/codeql-analysis.yml"
   last_updated_by: Facundo'Yala
   last_updated_on: 2021-11-22 17:13:35.000000000 Z
@@ -211,6 +221,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/831/7c0b595409af531b9cdeb07f8c513e8b.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -224,7 +235,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Browser Testing
   image_url: https://img.stackshare.io/service/1420/TidYGd6a.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -236,6 +247,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
   detection_source: UnitTests/UnitTests.csproj
   last_updated_by: FernandesMartins
   last_updated_on: 2020-07-12 14:00:57.000000000 Z
@@ -248,6 +260,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Text Editor
   image_url: https://img.stackshare.io/service/4202/Visual_Studio_Code_logo.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/.vscode/tasks.json
   detection_source: ".vscode/tasks.json"
   last_updated_by: FernandesMartins
   last_updated_on: 2020-07-10 20:42:49.000000000 Z
@@ -259,6 +272,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: FernandesMartins
   last_updated_on: 2020-07-10 20:42:49.000000000 Z
@@ -271,7 +285,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/3077/ca5a327feb49ddfe1f4b11548907e5a1_400x400.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
   detection_source: UnitTests/UnitTests.csproj
   last_updated_by: FernandesMartins
   last_updated_on: 2020-07-12 14:00:57.000000000 Z
@@ -281,6 +295,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/src/api-authorization/login-menu/login-menu.component.html
   detection_source: ClientApp/src/api-authorization/login-menu/login-menu.component.html
   last_updated_by: FernandesMartins
   last_updated_on: 2020-07-10 20:42:49.000000000 Z
@@ -294,7 +309,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16162/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -308,7 +323,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16010/default_af9df0bc9fa88191d2fe609204c5bd7599c1a797.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -322,7 +337,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16000/default_976847109ccfe67d00b33d9ff71329b6e82f5f89.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -336,7 +351,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15913/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -350,7 +365,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15917/default_4040fefea2f98006727f63d042275b96a275ab2d.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -364,7 +379,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15927/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -378,7 +393,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15944/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -392,7 +407,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16047/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -406,7 +421,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15921/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -420,7 +435,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15933/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -434,7 +449,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16296/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -448,7 +463,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15965/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-11-18 04:18:41.000000000 Z
@@ -462,7 +477,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15924/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -476,7 +491,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16060/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -490,7 +505,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-03-25 04:17:06.000000000 Z
@@ -504,7 +519,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15956/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-05-23 00:33:55.000000000 Z
@@ -518,7 +533,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15869/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-12 06:31:58.000000000 Z
@@ -532,7 +547,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15905/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -546,7 +561,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16066/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -560,7 +575,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15860/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -574,7 +589,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15998/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -588,7 +603,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15886/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -602,7 +617,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15999/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:36.000000000 Z
@@ -616,7 +631,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16357/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: FernandesMartins
   last_updated_on: 2020-07-10 20:42:49.000000000 Z
@@ -630,7 +645,7 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15915/default_59a1b5716eefa3750c20936c3d53ff13a6390ee1.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ClientApp/package.json
   detection_source: ClientApp/package.json
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-03-04 04:16:32.000000000 Z
@@ -644,7 +659,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13174/default_a5e8cd728170fc92850284a53a17ff7deb73f318.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
   detection_source: UnitTests/UnitTests.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-10-08 04:20:11.000000000 Z
@@ -658,7 +673,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13142/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
   detection_source: UnitTests/UnitTests.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:24.000000000 Z
@@ -672,7 +687,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13743/default_4056691b3b7b6737ac5df5ff7e15081a39ed930f.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -686,7 +701,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13053/default_ed36ff3c005af695725e05bb15ea5b1f03de31f3.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -701,7 +716,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/14124/default_6f9cfa92c648a46276b9e4377ed49e6afc16a2a4.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -715,7 +730,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13258/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -729,7 +744,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13851/default_e637dea816bab62ca037ba8b354e359bd6438b40.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -743,7 +758,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13268/default_3b9faa77d26eef0a944d4dab8d562db23059cb72.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
   detection_source: UnitTests/UnitTests.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 09:05:24.000000000 Z
@@ -757,7 +772,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12914/default_cd4457378b2b3dee674f43707df49edfbc5c04e5.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -771,7 +786,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13077/default_0af6f5844ebd9062a9a4895d909753dc8447f2f3.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -786,7 +801,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13138/default_a057bdad489be3cb053d372a68695da4ac94962d.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -800,7 +815,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/12981/default_aa8a6e377c22dbeff795489a5ab127b1d597b5ed.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/ServerApp/ServerApp.csproj
   detection_source: ServerApp/ServerApp.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2022-04-13 10:46:45.000000000 Z
@@ -814,7 +829,7 @@ tools:
   category: Libraries
   sub_category: NuGet Packages
   image_url: https://img.stackshare.io/package/13260/default_d2db5a200c4fe2d08cbdb2174cc230708973870b.png
-  detection_source_url: github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
+  detection_source_url: https://github.com/KelsonMartins/weather-forecast-app/blob/main/UnitTests/UnitTests.csproj
   detection_source: UnitTests/UnitTests.csproj
   last_updated_by: dependabot[bot]
   last_updated_on: 2021-05-22 16:03:21.000000000 Z
